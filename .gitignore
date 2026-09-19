@@ -1,0 +1,17 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.class
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Raw Datasets (Kept local due to size)
+*_final.csv
+
+# System
+.DS_Store
+Thumbs.db
