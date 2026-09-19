@@ -77,6 +77,7 @@ An algorithmic optimization and empirical evaluation suite designed for high-dim
 ```bash
 git clone https://github.com/Mohammed-Senan/distributed-metaheuristic-optimization-framework.git
 cd distributed-metaheuristic-optimization-framework
+```
 
 ### 2. Environment Setup
 ```bash
